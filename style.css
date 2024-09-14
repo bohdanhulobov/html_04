@@ -25,7 +25,12 @@ div.main__clickable {
 /* 100 */
 #unique-id {
   background-color: lightcoral;
-  color: white;
+}
+
+/* 10 */
+.checkbox {
+  background-color: gold;
+  color: black;
 }
 
 /* 11 */
