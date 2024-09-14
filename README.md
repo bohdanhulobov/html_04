@@ -27,3 +27,5 @@ This is a simple project that was created as a homework for lessons 4 and 5.
 ---
 
 Check out the [README.md](README.md) file for more information.
+
+Project preview can be found here: [GitHub Pages](https://bohdanhulobov.github.io/html_04/)
