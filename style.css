@@ -1,0 +1,67 @@
+/* 10 */
+.main {
+  background-color: rgb(240, 209, 6);
+  margin: 1%;
+}
+
+/* 1 */
+p {
+  background-color: rgb(98, 111, 226);
+}
+
+/* 10 */
+.main__paragraph {
+  background-color: lightblue;
+  color: violet;
+}
+
+/* 11 */
+div.main__clickable {
+  background-color: lightgreen;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 100 */
+#unique-id {
+  background-color: lightcoral;
+  color: white;
+}
+
+/* 11 */
+input[name="dateTime"] {
+  background-color: blueviolet;
+}
+
+/* 2 */
+section > p {
+  color: blue;
+}
+
+/* 2 */
+section > h2 {
+  color: red;
+}
+
+/* 21 */
+.main p:first-child {
+  background-color: yellow;
+}
+
+/* 21 */
+.main a.main__link {
+  font-weight: bold;
+  color: purple;
+}
+
+/* 101 */
+button#action-btn {
+  background-color: aqua;
+}
+
+/* 1 */
+button,
+input {
+  margin: 0.5rem;
+  max-width: fit-content;
+}
